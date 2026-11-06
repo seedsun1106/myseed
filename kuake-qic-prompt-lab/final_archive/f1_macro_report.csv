@@ -1,0 +1,25 @@
+﻿dataset,label,support,pred_count,TP,FP,FN,P,R,F1
+dev (results_v2.csv),method,33,32,27,5,6,0.84375,0.818182,0.830769
+dev (results_v2.csv),diagnosis,18,17,12,5,6,0.705882,0.666667,0.685714
+dev (results_v2.csv),disease_express,10,11,9,2,1,0.818182,0.9,0.857143
+dev (results_v2.csv),advice,11,13,11,2,0,0.846154,1.0,0.916667
+dev (results_v2.csv),attention,12,13,10,3,2,0.769231,0.833333,0.8
+dev (results_v2.csv),price,6,5,5,0,1,1.0,0.833333,0.909091
+dev (results_v2.csv),result,8,8,6,2,2,0.75,0.75,0.75
+dev (results_v2.csv),metric_explain,10,11,8,3,2,0.727273,0.8,0.761905
+dev (results_v2.csv),cause,7,16,7,9,0,0.4375,1.0,0.608696
+dev (results_v2.csv),effect,11,15,10,5,1,0.666667,0.909091,0.769231
+dev (results_v2.csv),other,24,9,7,2,17,0.777778,0.291667,0.424242
+dev (results_v2.csv),MACRO_AVG,150,,,,,0.758401,0.800207,0.755769
+holdout (results_holdout.csv),method,12,13,11,2,1,0.846154,0.916667,0.88
+holdout (results_holdout.csv),diagnosis,4,4,1,3,3,0.25,0.25,0.25
+holdout (results_holdout.csv),disease_express,5,6,4,2,1,0.666667,0.8,0.727273
+holdout (results_holdout.csv),advice,3,3,3,0,0,1.0,1.0,1.0
+holdout (results_holdout.csv),attention,3,4,2,2,1,0.5,0.666667,0.571429
+holdout (results_holdout.csv),price,3,3,3,0,0,1.0,1.0,1.0
+holdout (results_holdout.csv),result,4,5,4,1,0,0.8,1.0,0.888889
+holdout (results_holdout.csv),metric_explain,3,3,3,0,0,1.0,1.0,1.0
+holdout (results_holdout.csv),cause,3,5,2,3,1,0.4,0.666667,0.5
+holdout (results_holdout.csv),effect,3,3,3,0,0,1.0,1.0,1.0
+holdout (results_holdout.csv),other,7,1,0,1,7,0.0,0.0,0.0
+holdout (results_holdout.csv),MACRO_AVG,50,,,,,0.678438,0.754545,0.71069

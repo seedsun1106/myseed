@@ -1,0 +1,39 @@
+{
+  "版本": "FINAL — V2 Prompt + holdout 黄金留出集",
+  "存档时间": "2026-11-06",
+  "定版脚本": "eval_batch_FINAL_v2_holdout.py（与 eval_batch.py 逐字节相同）",
+  "prompt": {
+    "版本": "V2",
+    "字符数": 833,
+    "行数": 22,
+    "sha256": "74aa8782c871a3905778f4abd055e982cbb9a74568af034d14ec2747605507a9"
+  },
+  "配置": {
+    "model": "glm-5.3-flash",
+    "temperature": 0.1,
+    "reasoning_effort": "low",
+    "data": "holdout.csv",
+    "output": "results_holdout.csv",
+    "api_key": "环境变量 ZHIPU_API_KEY（脚本内无明文密钥）",
+    "汇总标题": "基线评测汇总",
+    "考试注明": "本次汇总：holdout 黄金留出集（期末考试）"
+  },
+  "核验": "16/16 项全部 PASS（Prompt 逐字节一致、路径/参数/映射/密钥/无旧引用残留）",
+  "成绩": {
+    "dev_accuracy": "74.67%",
+    "dev_macro_F1": "0.7558",
+    "holdout_accuracy": "72.00%",
+    "holdout_macro_F1": "0.7107",
+    "FORMAT_ERROR": 0
+  },
+  "文件哈希_sha256": {
+    "eval_batch_FINAL_v2_holdout.py": "0392c9c512a2f7d00952a4fae5954592709f404b6a85d38b0618801d5b6e6dc7",
+    "holdout.csv": "dd37fa192d3e41722bbba774ad3c0db8eb2a0caa0bc653cd908ab71b3daa0a20",
+    "results_holdout.csv": "c54a5db275bcc50f8ad9c8df2b9b36536c9f5ad11860697474d05d33d7e07a09",
+    "results_v2.csv": "128a2f0fd4bddf7b69f98987fafdee1ad57e71113f1a2c3603213fd1108ab58f",
+    "holdout_errors.csv": "16e7ea9bd92f477c03bd4f63695b586b505013a19fb11927ce710052177323c8",
+    "f1_macro_report.csv": "4027206acef76b115a9ce221c362fbbd5462d7f9634b9a606c18696b33fe8e8d",
+    "export_holdout.py": "46b85a4f2acc2d8ec836f627ed77e25203eef7d9d498f276ae7a429d85e6b3f7",
+    "analyze_exam.py": "66e2324e07bb9090100d85d406f59a8573d5f33081662bf03fd5e21a8a3a6ef4"
+  }
+}

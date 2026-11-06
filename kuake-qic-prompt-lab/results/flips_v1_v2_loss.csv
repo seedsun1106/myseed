@@ -1,0 +1,5 @@
+﻿id,input,expected,predicted_v1,predicted_v2,翻转
+DT-042,药物流产后一个半月才来月经请问这正常吗？...,diagnosis,diagnosis,metric_explain,对变错
+DT-079,正常精子形态率5%正常形态精子率5%麻烦您给我一些建议，谢谢！_,metric_explain,metric_explain,other,对变错
+DT-089,西红柿是发物吗？西红柿是发物吗？,effect,effect,attention,对变错
+DB-015,近视眼激光治疗有后遗症吗？,result,result,effect,对变错

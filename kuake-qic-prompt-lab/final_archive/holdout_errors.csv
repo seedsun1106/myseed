@@ -1,0 +1,15 @@
+﻿id,input,expected,predicted
+HO-003,宝贝不听话，讲道理也不行，凶他也不行，哄他也不行，怎么办,method,other
+HO-004,抽血查出血液里有Y染色体是指怀的男孩吗?,other,diagnosis
+HO-005,怀孕五个月可以人流吗,other,attention
+HO-006,女性患了梅毒可以治愈吗？,other,disease_express
+HO-007,呼吸有气味是哪里的问题？呼吸有气味是哪里的问题。,diagnosis,cause
+HO-008,宝宝打完预防针第三天发烧跟预防针有关系吗,diagnosis,cause
+HO-016,治疗强直性脊柱炎好的方案要注意什么好啊？,attention,method
+HO-028,怎么诊断出患上直肠癌？,cause,diagnosis
+HO-036,女性患鼻窦炎能否会引起血压高,disease_express,result
+HO-037,孕期脸上皮肤过敏贴黄瓜片可以不？,other,attention
+HO-039,突然便秘是怎么回事,diagnosis,cause
+HO-046,如何给食管癌术后患者进行鼻饲?,other,method
+HO-048,我女儿17岁左边乳房上长个小疙瘩会动咋了,other,diagnosis
+HO-050,白带异常能治疗吗,other,disease_express

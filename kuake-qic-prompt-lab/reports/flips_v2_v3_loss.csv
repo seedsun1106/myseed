@@ -1,0 +1,6 @@
+﻿id,input,expected,predicted_v2,predicted_v3,翻转
+DT-010,查出颈椎3~4，4~5椎间盘突出3MM，况严重吗，怎么治疗,method,method,diagnosis,对变错
+DT-062,幼年特发性关节炎如何保健护理,attention,attention,method,对变错
+DT-090,晚饭只喝纯牛奶能减肥吗,effect,effect,other,对变错
+DB-044,结扎会怀孕,other,other,result,对变错
+DB-059,像怀孕吗？,other,other,diagnosis,对变错

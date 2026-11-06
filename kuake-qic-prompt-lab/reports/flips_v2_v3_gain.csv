@@ -1,0 +1,5 @@
+﻿id,input,expected,predicted_v2,predicted_v3,翻转
+DT-022,哪些因素会决定种植牙的寿命？,other,cause,other,错变对
+DT-050,三尖瓣下移畸形有没有遗传?,disease_express,cause,disease_express,错变对
+DT-079,正常精子形态率5%正常形态精子率5%麻烦您给我一些建议，谢谢！_,metric_explain,other,metric_explain,错变对
+DT-089,西红柿是发物吗？西红柿是发物吗？,effect,attention,effect,错变对

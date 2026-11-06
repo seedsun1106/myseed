@@ -1,0 +1,12 @@
+﻿id,input,expected,predicted_v1,predicted_v2,翻转
+DT-020,为什么怀孕就那么难呢,other,cause,other,错变对
+DT-029,同房后多久会出现乳房胀痛的感觉？,other,result,other,错变对
+DT-034,你好，我想请问一下月经提前一周左右来了而且来了十天左右还没走是怎么回事,diagnosis,cause,diagnosis,错变对
+DT-035,小便时针扎似的痛，从尿道流出聋水。是怎么回事？,diagnosis,cause,diagnosis,错变对
+DT-038,阴囊两侧有异味有分泌物是怎么回事,diagnosis,cause,diagnosis,错变对
+DT-045,宫颈糜烂发展的快吗？,disease_express,result,disease_express,错变对
+DT-059,月经期吃什么好可以吃阿胶红糖不,attention,advice,attention,错变对
+DT-073,孕妇吃了4颗去痛片以后才知道自己怀孕了4周对孩子有没有影响,result,attention,result,错变对
+DB-044,结扎会怀孕,other,result,other,错变对
+DB-053,今天，去逛地下商场的时候，头晕眼花的，脚也软，感觉要晕倒了一样，妈妈说是里面不通气，是吗？还是有其今天，去逛地下商场的时候，头晕眼花的，脚也软，感觉要晕倒了一样，妈妈说是里面不通气，是吗？还是有其他不同的异常,diagnosis,cause,diagnosis,错变对
+DB-059,像怀孕吗？,other,diagnosis,other,错变对
